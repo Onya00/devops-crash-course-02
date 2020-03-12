@@ -8,7 +8,7 @@ devops-crash-course-02
 
 5 <br /> 
 6 <br /> 
-7 <br /> 
+7 The Dnieper's plunging shore  <br /> 
 8 <br /> 
 
 9 <br /> 
