@@ -1,15 +1,15 @@
 # devops-crash-course-02
 devops-crash-course-02
 
-1 <br /> 
-2 <br /> 
-3 <br /> 
-4 <br /> 
+1 some text for raise a conflict <br /> 
+2 some text for raise a conflict <br /> 
+3 some text for raise a conflict <br /> 
+4 some text for raise a conflict <br /> 
 
-5 <br /> 
-6 <br /> 
-7 <br /> 
-8 <br /> 
+5 some text for raise a conflict <br />  
+6 some text for raise a conflict <br /> 
+7 some text for raise a conflict <br /> 
+8 some text for raise a conflict <br /> 
 
 9 <br /> 
 10 <br /> 
