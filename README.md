@@ -1,7 +1,7 @@
 # devops-crash-course-02
 
 1 When I am dead, bury me <br/> 
-2 Test <br /> 
+2 Test<br /> 
 3 <br /> 
 4 <br /> 
 
@@ -10,7 +10,7 @@
 7 The Dnieper's plunging shore  <br /> 
 8 <br /> 
 
-9 <br /> 
+ 9 <br /> 
 10 <br /> 
 11 <br /> 
 12 <br /> 
