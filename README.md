@@ -1,16 +1,16 @@
 # devops-crash-course-02
 
-1 text for raise merge conflict <br/>
-2 text for raise merge conflict <br/> 
-3 text for raise merge conflict <br />
-4 text for raise merge conflict <br /> 
+1 When I am dead, bury me <br/> 
+2 Test<br /> 
+3 text for raise merge conflict <br/>
+4 text for raise merge conflict <br/>
 
 5 <br /> 
 6 <br /> 
 7 <br /> 
 8 <br /> 
 
-9 <br /> 
+ 9 <br /> 
 10 <br /> 
 11 <br /> 
 12 <br /> 
