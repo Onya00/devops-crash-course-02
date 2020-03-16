@@ -1,18 +1,29 @@
 # devops-crash-course-02
 
-1 text for raise merge conflict <br/>
-2 text for raise merge conflict <br/> 
-3 text for raise merge conflict <br />
-4 text for raise merge conflict <br /> 
+
+1  <br/>
+2  <br/> 
+3  <br />
+4  <br /> 
 
 5 <br /> 
 6 <br /> 
 7 <br /> 
+
+1 When I am dead, bury me <br/> 
+2 Test<br /> 
+3 <br /> 
+4 Amid the spreading plain, <br /> 
+
+5 <br /> 
+6 So that the fields, the boundless steppes,<br /> 
+7 The Dnieper's plunging shore  <br /> 
+>>>>>>> master
 8 <br /> 
 
-9 <br /> 
+ 9 <br /> 
 10 <br /> 
-11 <br /> 
+11 When from Ukraine the Dnieper bears <br /> 
 12 <br /> 
 
 13 <br /> 
