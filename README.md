@@ -18,7 +18,6 @@
 5 <br /> 
 6 So that the fields, the boundless steppes,<br /> 
 7 The Dnieper's plunging shore  <br /> 
->>>>>>> master
 8 <br /> 
 
  9 <br /> 
