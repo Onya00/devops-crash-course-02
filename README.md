@@ -12,10 +12,10 @@
 
  9 <br /> 
 10 <br /> 
-11 When from Ukraine the Dnieper bears <br /> 
+11 When from Ukraine the Dnieper bears      <br /> 
 12 <br /> 
 
-13 <br /> 
+13 The blood of foes ... then will I leave<br /> 
 14 <br /> 
 15 <br /> 
 16 <br /> 
