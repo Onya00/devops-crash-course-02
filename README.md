@@ -15,7 +15,7 @@
 11 When from Ukraine the Dnieper bears      <br /> 
 12 <br /> 
 
-13 <br /> 
+13 The blood of foes ... then will I leave <br /> 
 
 14 These hills and fertile fields — <br /> 
 
