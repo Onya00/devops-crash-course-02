@@ -15,7 +15,7 @@
 11 When from Ukraine the Dnieper bears      <br /> 
 12 <br /> 
 
-13 The blood of foes ... then will I leave<br /> 
+13 <br /> 
 14 <br /> 
 15 <br /> 
 16 <br /> 
@@ -30,10 +30,10 @@
 23 <br /> 
 24 <br /> 
 
-25 <br /> 
-26 <br /> 
-27 <br /> 
-28 <br /> 
+25 And in the great new family<br /> 
+26 The family of the free<br /> 
+27 With softly spoken, kindly word<br /> 
+28 Remember also me.<br /> 
 
 29 <br /> 
 30 <br /> 
