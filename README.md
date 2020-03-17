@@ -10,13 +10,13 @@
 7 The Dnieper's plunging shore  <br /> 
 8 <br /> 
 
- 9 <br /> 
+9 <br /> 
 10 <br /> 
 11 When from Ukraine the Dnieper bears      <br /> 
 12 <br /> 
 
 13 <br /> 
-14 These hills and fertile fields — <br /> 
+14 <br /> 
 15 <br /> 
 16 <br /> 
 
@@ -37,7 +37,4 @@
 
 29 <br /> 
 30 <br /> 
-
-
-
 
